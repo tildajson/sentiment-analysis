@@ -1,1 +1,7 @@
-Sentiment analysis of Covid-19 Tweets.
+# Sentiment Analysis of Covid-19 Vaccination Tweets
+
+
+
+## Tech Stack
+
++ Jupyter Notebook
