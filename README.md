@@ -1,7 +1,11 @@
 # Sentiment Analysis of Covid-19 Vaccination Tweets
 
-Analysis using machine learning models and visualization with Numpy, Pandas, Sklearn and Matplotlib.
+Analysis using machine learning with MultinomialNB, and visualization with Matplotlib.
 
 ## Tech Stack
 
 + Jupyter Notebook
++ Pandas
++ Numpy
++ Sklearn
++ NLTK
